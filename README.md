@@ -2,16 +2,17 @@
 
 
 
-## Getting started
+## Como empezar
 
-To make it easy for you to get started with GitLab, here's a list of recommended next steps.
+Para que le resulte más fácil comenzar con GitLab, aquí hay una lista de los siguientes pasos recomendados.
 
-Already a pro? Just edit this README.md and make it your own. Want to make it easy? [Use the template at the bottom](#editing-this-readme)!
+¿Ya eres un profesional? Simplemente edite este archivo README.md y personalícelo. ¿Quieres hacerlo fácil? [Utilice la plantilla en la parte inferior]
 
 ## Add your files
 
 - [ ] [Create](https://gitlab.com/-/experiment/new_project_readme_content:255f9e52d84dcf4771f60539d4190c68?https://docs.gitlab.com/ee/user/project/repository/web_editor.html#create-a-file) or [upload](https://gitlab.com/-/experiment/new_project_readme_content:255f9e52d84dcf4771f60539d4190c68?https://docs.gitlab.com/ee/user/project/repository/web_editor.html#upload-a-file) files
-- [ ] [Add files using the command line](https://gitlab.com/-/experiment/new_project_readme_content:255f9e52d84dcf4771f60539d4190c68?https://docs.gitlab.com/ee/gitlab-basics/add-file.html#add-a-file-using-the-command-line) or push an existing Git repository with the following command:
+- [ ] [Add files using the command line](https://gitlab.com/-/experiment/new_project_readme_content:255f9e52d84dcf4771f60539d4190c68?https://docs.gitlab.com/ee/gitlab-basics/add-file.html#add-a-file-using-the-command-line) 
+o inserte un repositorio Git existente con el siguiente comando:
 
 ```
 cd existing_repo
@@ -20,7 +21,7 @@ git branch -M main
 git push -uf origin main
 ```
 
-## Integrate with your tools
+## Integre con sus herramientas
 
 - [ ] [Set up project integrations](https://gitlab.com/-/experiment/new_project_readme_content:255f9e52d84dcf4771f60539d4190c68?https://gitlab.com/vickypineli/weather-app/-/settings/integrations)
 
@@ -44,12 +45,12 @@ Use the built-in continuous integration in GitLab.
 
 ***
 
-# Editing this README
+# Editando este README
 
-When you're ready to make this README your own, just edit this file and use the handy template below (or feel free to structure it however you want - this is just a starting point!).  Thank you to [makeareadme.com](https://gitlab.com/-/experiment/new_project_readme_content:255f9e52d84dcf4771f60539d4190c68?https://www.makeareadme.com/) for this template.
+Cuando esté listo para hacer suyo este LÉAME, simplemente edite este archivo y use la práctica plantilla a continuación (o siéntase libre de estructurarlo como desee, ¡esto es solo un punto de partida!). gracias a[makeareadme.com](https://gitlab.com/-/experiment/new_project_readme_content:255f9e52d84dcf4771f60539d4190c68?https://www.makeareadme.com/) for this template.
 
-## Suggestions for a good README
-Every project is different, so consider which of these sections apply to yours. The sections used in the template are suggestions for most open source projects. Also keep in mind that while a README can be too long and detailed, too long is better than too short. If you think your README is too long, consider utilizing another form of documentation rather than cutting out information.
+## Sugerencias para un buen README
+Cada proyecto es diferente, así que considere cuál de estas secciones se aplica a la suya. Las secciones utilizadas en la plantilla son sugerencias para la mayoría de los proyectos de código abierto. También tenga en cuenta que si bien un README puede ser demasiado largo y detallado, es mejor demasiado largo que demasiado corto. Si cree que su LÉAME es demasiado largo, considere utilizar otra forma de documentación en lugar de recortar información.
 
 ## Name
 Choose a self-explaining name for your project.
